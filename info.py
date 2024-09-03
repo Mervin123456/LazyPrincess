@@ -91,7 +91,7 @@ LAZY_YT_HANDLE = environ.get('LAZY_YT_HANDLE','TrendTrackerToday')  # WITHOUT @ 
 MOVIE_GROUP_USERNAME = environ.get('MOVIE_GROUP_USERNAME', "Moviesarenarequest") #[ without @ ]
 
 # Url Shortner
-URL_MODE = is_enabled((environ.get("URL_MODE","True")), False) # make it true to enable url shortner in groups or pm
+URL_MODE = is_enabled((environ.get("URL_MODE","False")), False) # make it true to enable url shortner in groups or pm
 URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'URL_SHORTENR_WEBSITE') #Always use website url from api section 
 URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', 'URL_SHORTNER_WEBSITE_API')
 lazy_groups = environ.get('LAZY_GROUPS','')
