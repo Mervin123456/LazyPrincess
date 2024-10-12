@@ -168,8 +168,8 @@ DISCUSSION_TITLE = "Click Here"
 DISCUSSION_CHAT_USRNM = "Moviesarenarequest" #without @
 
 # Download Tutorial Button #
-DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = "https://t.me/moviesarena3"
+DOWNLOAD_TEXT_NAME = "📥 Request Group 📥"
+DOWNLOAD_TEXT_URL = "https://t.me/moviesarenarequest"
 
 # Custom Caption Under Button #
 CAPTION_BUTTON = "Get Updates"
